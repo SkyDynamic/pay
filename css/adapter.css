@@ -1,6 +1,6 @@
 @media only screen and (max-width: 768px) {
     body {
-        background: url('https://api.yimian.xyz/img?type=moe&size=1920x1080');
+        background: url('https://api.yimian.xyz/img?type=moe&size=1920-2000x1080-1200');
         background-size: cover;
     }
 }
