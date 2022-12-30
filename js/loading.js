@@ -11,6 +11,7 @@ var time=setInterval(function () {
          clearInterval(time);
          //loadingPage.remove();
          $('#loading').remove();
+         $('#pay').fadeIn(2500)
     }
 
     loadingBackground.style.opacity=opacity;

@@ -1,0 +1,13 @@
+@media only screen and (max-width: 768px) {
+    body {
+        background: url('https://api.yimian.xyz/img?type=moe&size=1920x1080');
+        background-size: cover;
+    }
+}
+
+@media only screen and (min-width: 768px) {
+    body {
+        background: url('https://px3.rainchan.win/img/original/94819771');
+        background-size: cover;
+    }
+}
